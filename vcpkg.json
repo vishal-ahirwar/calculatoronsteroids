@@ -1,0 +1,19 @@
+{
+  "name": "calculatoronsteroids",
+  "version": "1.0.0",
+  "builtin-baseline": "48a0cef9ea67606c94f149647470c956bb78050a",
+  "dependencies": [
+    "boost-multiprecision",
+    "barkeep"
+  ],
+  "overrides": [
+    {
+      "name": "boost-multiprecision",
+      "version": "1.88.0"
+    },
+    {
+      "name": "barkeep",
+      "version": "0.1.5"
+    }
+  ]
+}
